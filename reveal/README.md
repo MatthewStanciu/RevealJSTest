@@ -1,2 +1,2 @@
 # RevealJSTest
-Playing around with revealjs in hoopes that I will use it for a future school project
+Playing around with RevealJS in hopes that I will use it for a future school project
